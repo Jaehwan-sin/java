@@ -1,0 +1,11 @@
+package com.tech.w02;
+
+public class SonataClass extends CarClass {
+
+	public void doJoripSonata() {
+		System.out.println("소나타 바디 조립");
+		System.out.println("소나타 도어 조립");
+		System.out.println("소나타 시트 조립 -> 출고");
+	}
+
+}
